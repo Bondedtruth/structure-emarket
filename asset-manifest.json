@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/structure-emarket/static/css/main.98b43615.css",
+    "main.js": "/structure-emarket/static/js/main.07a97353.js",
+    "index.html": "/structure-emarket/index.html",
+    "main.98b43615.css.map": "/structure-emarket/static/css/main.98b43615.css.map",
+    "main.07a97353.js.map": "/structure-emarket/static/js/main.07a97353.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98b43615.css",
+    "static/js/main.07a97353.js"
+  ]
+}
